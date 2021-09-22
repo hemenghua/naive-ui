@@ -2,7 +2,7 @@
 
 ```html
 <n-date-picker v-model:value="timestamp" type="date" clearable />
-<pre>{{ JSON.stringify(timestamp) }}</pre>
+<!-- <pre>{{ JSON.stringify(timestamp) }}</pre> -->
 ```
 
 ```js
